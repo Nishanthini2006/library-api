@@ -15,12 +15,11 @@ A REST API to manage a library's books. Built with Node.js and Express as the fi
 - Node built-in test runner
 
 ## Live Demo
-https://YOUR-LINK.onrender.com
-
+https://library-api-a689.onrender.com
 ## Setup
 1. Clone the repository
    ```
-   git clone https://github.com/YOUR-USERNAME/library-api.git
+   git clone https://github.com/Nishanthini2006/library-api.git
    cd library-api
    ```
 2. Install dependencies
